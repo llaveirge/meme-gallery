@@ -1,0 +1,23 @@
+{
+  "name": "meme-gallery",
+  "version": "1.0.0",
+  "description": "An interactive HTML, CSS, and JavaScript app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llaveirge/meme-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llaveirge/meme-gallery/issues"
+  },
+  "homepage": "https://github.com/llaveirge/meme-gallery#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
